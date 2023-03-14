@@ -1,0 +1,145 @@
+body {
+    overflow-x: hidden;
+}
+
+
+.center {
+  margin: auto;
+  width: 60%;
+  height: 100%;
+  border: 3px solid black;
+}
+
+.left {
+    display: inline-block;
+    width: 40%;
+    background-color: #4D5266;
+}
+
+.photo{
+    width: 30%;
+    margin: 5% 0% 0% 35%;
+
+}
+
+
+h1 {
+    margin: 10px auto auto 23%;
+    font-family: "helvetica", Times, serif;
+    color: #ffe6d5;
+}
+
+h4 {
+    font-family: "helvetica", Times, serif;
+    font-size: 1.5em;
+    color: #ffe6d5;
+}
+
+
+.right {
+  display: inline-block;
+  position: absolute;
+  width: 80%;
+
+}
+
+
+hr {
+    position: relative;
+    width: 80%;
+    border: 3px solid #ffe6d5;
+    top: 10px;
+}
+
+
+
+.am {
+    padding: 10% 5% 12% 7%;
+    font-family: "Calibri", Helvetica, sans-serif;
+    color: white;
+}
+
+.lang {
+    padding-left: 7%;
+    padding-bottom: 12%;
+    color: white;
+    font-family: "Calibri", Helvetica, sans-serif;
+}
+
+
+.cont {
+    padding-left: 7%;
+    padding-bottom: 40%;
+    color: white;
+    font-family: "Calibri", Helvetica, sans-serif;
+}
+
+h3{
+    margin-left: 10%;
+    font-size: 1.3rem;
+    background-color: #ffe6d5;
+    width: 22%;
+    font-family: "Helvetica", Times, serif;
+}
+
+h5{
+    margin-left: 5%;
+    font-size: 20px;
+}
+
+.empl {
+    font-family: "Calibri", Helvetica, sans-serif;
+    margin-bottom: 50px;
+
+}
+
+.empl p{
+    margin-left: 5%;
+    padding: 0px;
+}
+
+.empl ul{
+    margin-left: 5%;
+
+}
+
+
+.edu {
+    margin-bottom: 50px;
+}
+
+.edu p {
+    margin-left: 5%;
+    font-family: "Calibri", Helvetica, sans-serif;
+}
+
+.edu .space{
+    margin-bottom: 50px;
+    font-style: italic;
+}
+
+
+.skill {
+    margin-bottom: 50px;
+}
+
+.skill  ul{
+    margin-left: 3%;
+    font-family: "Calibri", Helvetica, sans-serif;
+}
+
+
+.books {
+    margin-bottom: 50px;
+}
+
+.books ul {
+    margin-left: 3%;
+    font-family: "Calibri", Helvetica, sans-serif;
+}
+
+
+.hobby ul {
+    margin-left: 3%;
+    font-family: "Calibri", Helvetica, sans-serif;
+}
